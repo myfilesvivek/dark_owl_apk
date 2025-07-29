@@ -27,14 +27,23 @@ https://darkowl.web.app/
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/796e4c52-272a-4b81-bd58-e7c85d43e30d" width="250" alt="photo_2025-07-25 00 35 52">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/a06a4aa5-0dcb-4bdb-b241-b35ed4eb3649" width="250" alt="photo_2025-07-25 00 36 00">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/c532b577-5865-495b-9d1d-0108a74d5253" width="250" alt="photo_2025-07-25 00 35 56">
+<br><br>
 <img src="https://github.com/user-attachments/assets/a957df86-0868-44ca-a200-5bba8541c472" width="250" alt="photo_2025-07-25 00 36 07">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/aaaa2ae0-819f-4883-bbd1-3ae1545c7530" width="250" alt="photo_2025-07-25 00 37 28">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/827ebcb1-cfca-43dc-b65a-cb878c42f59f" width="250" alt="photo_2025-07-25 00 37 33">
+<br><br>
 <img src="https://github.com/user-attachments/assets/25a22fc2-834b-45b8-8d2c-c51e44a3f253" width="250" alt="photo_2025-07-25 00 38 03">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/59399e66-1763-49a4-a920-7beb5535537f" width="250" alt="photo_2025-07-25 00 37 56">
+&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/69bf83af-e71d-40d7-a1b4-5868526e4e9e" width="250" alt="photo_2025-07-25 00 37 39">
+<br><br>
 <img src="https://github.com/user-attachments/assets/3935d477-f8ef-4ae1-be86-d2fa2e8388bd" width="250" alt="photo_2025-07-25 00 37 47">
 
 
